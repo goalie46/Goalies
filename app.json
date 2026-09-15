@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CreaseLog",
+    "slug": "creaselog",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "creaselog",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.creaselog.app"
+    },
+    "android": { "package": "com.creaselog.app" },
+    "web": { "bundler": "metro" },
+    "plugins": []
+  }
+}
